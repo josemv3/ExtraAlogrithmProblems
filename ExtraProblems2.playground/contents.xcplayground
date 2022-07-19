@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Has only U vowel'/>
+        <page name='Begins and ends with TH'/>
+        <page name='E and 15 letters long'/>
+        <page name='Pro Ing'/>
+        <page name='RSTLINE'/>
+        <page name='RSTLNE 2'/>
+        <page name='AEIOSHRTN'/>
+        <page name='Functions '/>
+        <page name='Func 2'/>
+        <page name='Palindrome'/>
+        <page name='Pal 2'/>
+    </pages>
+</playground>
